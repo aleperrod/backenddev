@@ -1,6 +1,6 @@
 {
-	"author": "Alessandro Pereira Rodrigues",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Alessandro Pereira Rodrigues",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
